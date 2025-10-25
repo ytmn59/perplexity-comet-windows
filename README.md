@@ -6,7 +6,8 @@ If you've ever felt overwhelmed by endless browser tabs, vague search results, o
 
 ---
 
-![Perplexity AI Comet browser interface](image/5825836345.webp)
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6de35438-a9d8-40d5-bcf6-01a1ba99d92f" />
+
 
 ## A Browser That Actually Talks Back
 
